@@ -1,4 +1,4 @@
-# **CLASS NOTES**
+# **CLASS NOTES** by Taemour Zaidi
 
 ## Questions
 
@@ -21,7 +21,6 @@
     - Medical imagine (such as MRI scans)
     - Archeological work (such as digital recreation/restoration of old texts)
     - Computer-Generated Models of Physical, Financial, and Economic Systems for Educational Aid
-
 
 4. **What are the main areas of computer graphics?**
     - Virtual Reality

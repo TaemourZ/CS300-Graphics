@@ -13,3 +13,12 @@ Devices/Hardware used for displaying graphics: _(add image for ones in italics)_
     - Film recorder
     - Pen plotter
 
+## MAIN TYPES OF COMPUTER GRAPHCIS
+1. **Rastor:**
+    - Built up of inidivual pixels
+    - Does not scale to different sizes smoothly
+    - Good for high detail images that only need to exist in 1 size
+1. **Vector:**
+    - Built up of math equations and sequence of commands
+    - Looks the same regardless of the scale
+

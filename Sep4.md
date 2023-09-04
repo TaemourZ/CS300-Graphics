@@ -1,20 +1,22 @@
 # **CLASS NOTES** by Taemour Zaidi
 
-### Question: What is a computer system?
-It is a combination of hardware and software
+**Question: What is a computer system?:**
+It is a combination of hardware and software. In its most basic form, a computer system is a programmable electronic device that can accept input; store data; and retrieve, process and output information.
+
+## Computer systems and Graphics systems
 
 Computer system has 4 main components:
 - Input devices
-- Output devices
+- Processor (CPU)
 - Memory
-- Processing unit (CPU)
+- Output devices
 
 Graphics systems has 5 components:
-- input devices
-- output devices
-- memory
-- Processing unit (GPU)
-- Memory buffer
+- Input devices
+- Processor (GPU)
+- Memory
+- Frame buffer
+- Output devices
 
 ### CPU vs GPU
 The CPU handles all the tasks required for all software on the server to run correctly. A GPU, on the other hand, supports the CPU to perform concurrent calculations. A GPU can complete simple and repetitive tasks much faster because it can break the task down into smaller components and finish them in parallel.
@@ -36,3 +38,4 @@ CPUs and GPUs have *cores*. Cores are capable of running a single task at a time
 - Core count: Thousands
 - Runs processes in parallel
 - Better at processing several smaller tasks at a time
+

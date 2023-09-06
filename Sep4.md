@@ -52,13 +52,3 @@ CPUs and GPUs have *cores*. Cores are capable of running a single task at a time
 - Runs processes in parallel
 - Better at processing several smaller tasks at a time
 
-## Early Graphics Systems
-In the early days of computer graphics, computers were so slow that refreshing even simple images, containing a few hundreds of line segments, would burden even expensive computers
-
-CRTs had only the basic capability to generate line segments connecting 2 points. An issue was that if the picture changed, the whole picture had to be redrawn.
-
-Earliest attempts to buld a special purpose graphics system were concerned primarily with relieving the task of refreshing the display.
-
-**Display processors:**
-- Standard architecture with capabilities to display orimitives
-- compositions made at the host

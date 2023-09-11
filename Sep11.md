@@ -6,3 +6,5 @@ such that:
 - $(x_0,y_0)=(x,y)$, 
 - $(x_n,y_n)=(s,t)$ 
 - $(x_i,y_i)$ is adjascent to $(x_{i-1},y_{i-1})$ for $i=1,...,n$
+
+We can define type of path: 4-path, 8-path, or m-path depending on the type of adjascency.

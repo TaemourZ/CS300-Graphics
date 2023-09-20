@@ -38,7 +38,7 @@ Colors can have an affect on the audience. Different colors communicate differen
         - ````R(red), G(green), B(blue)````
 
     - Each primary color can take an intensity value. Mixing these three primary colors at different intensity levels produces a variety of colors.
-    - Color specification using the RGB model is an additive process, in that ee begin with black and add on the appropriate primary components to yield a desired color.
+    - Color specification using the RGB model is an additive process, in that we begin with black and add on the appropriate primary components to yield a desired color.
 1. **Give a brief introduction about the CMYK Color Model and its main use. What is the meaning of subtractive attribute in this context?**
     - CMYK colour model is widely used in printers. It stands for Cyan, Magenta, Yellow and Black (key). 
     - 0 represents the primary colour and 1 represents the lightest colour. In this model, point (1, 1, 1) represents black, and (0,0,0) represents white. 

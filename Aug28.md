@@ -9,7 +9,7 @@
 
 ## Image File Formats
 
-Image files are composed of digital data in one of image file formats so that the data can be displayed on a digital display or printed out using a printer
+Image files are composed of digital data in image file formats so that the data can be displayed on a digital display or printed out using a printer
 
 **There are two main types of image file formats:**
 1. Native image files: they are specifically to be used with one software. Like aseprite has `.ase` format.

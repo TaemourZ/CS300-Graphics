@@ -1,7 +1,7 @@
 # **CLASS NOTES** by Taemour Zaidi
 
 ### What is a pixel?
-- The mosy basic element of an image, a dot on a screen with color and location
+- The most basic element of an image, a dot on a screen with color and location
 
 ### What is resolution?
 - Pixels per image. High resolution = more pixels
@@ -18,9 +18,9 @@ Images are usually represented by a matrix or an array.
 - *Quantization* is the representation of the measured value at the sampled point by an integer.
 
 ## Basic Relationship Between Pixels
-When relating the position pf pixels, rather that coordinates like in math, their location is always in relation to a reference point pixel, (x, y). Pixels to the left have (x-1, y). Pixels to the right have (x+1, y). Above is y-1, below is y+1.
+When relating the position pf pixels, rather that coordinates like in math, their location is always in relation to a reference point pixel, $(x, y)$. Pixels to the left have $(x-1, y)$. Pixels to the right have $(x+1, y)$. Above is $(x,y-1)$, below is $(x,y+1)$.
 
-So the pixel to the diagonal upper left would have a position (x-1, y-1).
+So the pixel to the diagonal upper left would have a position $(x-1, y-1)$.
 
 Pixels have 8 neighbors:
 - 2 vertical neighbors

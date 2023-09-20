@@ -1,7 +1,7 @@
 # **CLASS NOTES** by Taemour Zaidi
 
 **Question: What is a computer system?:**
-It is a combination of hardware and software. In its most basic form, a computer system is a programmable electronic device that can accept input; store data; and retrieve, process and output information.
+It is a combination of hardware and software. In its most basic form, a computer system is a programmable electronic device that can accept input, store data, and retrieve, process and output information.
 
 ## Computer systems and Graphics systems
 
@@ -23,7 +23,7 @@ Graphics systems has 5 components:
 - A picture is produced as an array (raster) of picture elements (pixels)
 - These pixels are collectively stores in the frame buffer
 - Properties of frame buffer:
-    - Resolution: number of picels in the frame buffer
+    - Resolution: number of pixels in the frame buffer
     - Depth or Precision: number of bits used for each pixel
         - For example: a 1-bit deep frame buffer allows 2 colors, while an 8-bit deep frame buffer allows 256 colors
     - A frame buffer is implemented either with special types of memory chips or it can be a part of system memory

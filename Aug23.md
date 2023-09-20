@@ -16,7 +16,7 @@ Devices/Hardware used for displaying graphics: _(add image for ones in italics)_
 ## MAIN 2 SUBDOMAINS OF COMPUTER GRAPHCIS
 1. **Rastor:**
     - AKA Bit-map
-    - Built up of inidivual pixels
+    - Built up of individual pixels
     - Resolution dependant
     - Does not scale to different sizes smoothly, pixelation issue
     - Good for high detail images that only need to exist in 1 size

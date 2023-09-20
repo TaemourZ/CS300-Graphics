@@ -48,7 +48,9 @@ Two pixels ae connected if they are in the same class (i.e. the same color or th
 For $p$ and $q$ from the same class:
 - 4-connectivity: $p$ and $q$ are 4-connected if $q \in N_4(p)$
 - 8-connectivity: $p$ and $q$ are 8-connected if $q \in N_8(p)$
-- mixed-connectivity (m-connectivity): $p$ and $q$ are m-connected if $q \in N_4(p)$ or $q \in N_D(p)$ and $N_4(p) \cap N_4(q) = \empty$
+- mixed-connectivity (m-connectivity): $p$ and $q$ are m-connected if either:
+    1. $q \in N_4(p)$
+    2. $q \in N_D(p)$ and $N_4(p) \cap N_4(q) = \empty$
 
 ### Adjacency
 A pixel $p$ is adjacent to pixel $q$ if they are connected. 

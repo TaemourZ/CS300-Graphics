@@ -70,7 +70,7 @@ Image files are composed of digital data in one of image file formats so that th
 - **EPS (Encapsulated PostScript):**
     - .eps
     - Common vector file type
-    -Can be opened in many illustration applications such as Adobe Illustrator or CorelDRAW
+    - Can be opened in many illustration applications such as Adobe Illustrator or CorelDRAW
     - No compression
     - Save vector information
     - Best for vector artwork/illustrations
